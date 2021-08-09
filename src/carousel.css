@@ -1,0 +1,100 @@
+.default {
+    height: 46vw;
+    width: 35vw;
+    
+}
+
+.default2 {
+    height: 40vw;
+    width: 28vw;
+    border-radius: 1vw;
+    background-color: rgb(41, 41, 41);
+    
+
+    margin-left: 1.5vw;
+    margin-top: 2vw;
+}
+
+.valorantStat {
+    height: 40vw;
+    width: 28vw;
+    border-radius: 1vw;
+    background-image: url("./Images/jett.jpg");
+    background-position: 40% 3%;
+
+    text-align: left;
+    
+
+    margin-left: 1.5vw;
+    margin-top: 2vw;
+}
+
+.description {
+  padding-top: 30vw;
+  padding-left: 1vw;
+  color: white;
+  font-size: 3vw;
+  font-weight: 500;
+  font-family: 'Raleway', sans-serif;
+  
+}
+
+.chess {
+    height: 40vw;
+    width: 28vw;
+    border-radius: 1vw;
+    background-size: cover;
+    background-image: url("./Images/chess-header.jpg");
+    background-position: 10% 30%;
+
+    text-align: left;
+    
+
+    margin-left: 1.5vw;
+    margin-top: 2vw;
+}
+
+.league {
+    height: 40vw;
+    width: 28vw;
+    border-radius: 1vw;
+    background-size: cover;
+    background-image: url("./Images/league.jpg");
+    background-position: 90%;
+
+    text-align: left;
+    
+
+    margin-left: 1.5vw;
+    margin-top: 2vw;
+}
+
+.game {
+    height: 40vw;
+    width: 28vw;
+    border-radius: 1vw;
+    background-size: cover;
+    background-image: url("./Images/game.png");
+    background-position: 90%;
+
+    text-align: left;
+    
+
+    margin-left: 1.5vw;
+    margin-top: 2vw;
+}
+
+.code {
+    height: 40vw;
+    width: 28vw;
+    border-radius: 1vw;
+    background-size: cover;
+    background-image: url("./Images/code.jpg");
+    background-position: 90%;
+
+    text-align: left;
+    
+
+    margin-left: 1.5vw;
+    margin-top: 2vw;
+}
